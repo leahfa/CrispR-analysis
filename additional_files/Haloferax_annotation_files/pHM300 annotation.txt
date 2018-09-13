@@ -1,0 +1,289 @@
+type	geneStart	geneEnd	tag	description
+CDS	1	1233	HFX_5001	cell division control protein cdc6-like protein
+CDS	1815	2201	HFX_5002	hypothetical protein
+CDS	2198	3061	HFX_5003	ParA domain-containing protein
+CDS	3830	4525	HFX_5004	hypothetical protein
+CDS	4663	6465	HFX_5005	spermidine synthase
+CDS	6468	7088	HFX_5006	hypothetical protein
+CDS	7085	8038	HFX_5007	hypothetical protein
+CDS	8191	8373	HFX_5009	hypothetical protein
+CDS	8252	10558	HFX_5008	hypothetical protein
+CDS	10670	11386	HFX_5010	bacterio-opsin activator
+CDS	11451	12206	HFX_5011	aspartate racemase
+CDS	12378	12572	HFX_5012	N-ethylammeline chlorohydrolase
+CDS	12685	14274	HFX_5013	hypothetical protein
+CDS	14293	15168	HFX_5014	ABC-type transport system ATP-binding protein
+CDS	16076	17266	HFX_5015	glycerol-3-phosphate ABC-type transporter ATP-binding protein
+CDS	17270	18178	HFX_5016	glycerol--phosphate ABC transporter permease
+CDS	18182	19075	HFX_5017	glycerol--phosphate ABC transporter permease
+CDS	19162	20580	HFX_5018	glycerol-3-phosphate ABC transporter periplasmic substrate-binding protein
+CDS	21697	21924	HFX_5019	hypothetical protein
+CDS	21921	22076	HFX_5020	hypothetical protein
+CDS	22149	24296	HFX_5021	G8 domain-containing protein
+CDS	24399	24830	HFX_5022	hypothetical protein
+CDS	25195	25350	HFX_5023	hypothetical protein
+CDS	25225	25395	HFX_5024	hypothetical protein
+CDS	25887	27017	HFX_5025	sugar ABC transporter ATP-binding protein (UGPC)
+CDS	27187	28413	HFX_5026	L-seryl-tRNA(Ser) seleniumtransferase
+CDS	28463	29170	HFX_5027	putative LmbE-like protein
+CDS	29217	29591	HFX_5028	translation initiation inhibitor
+CDS	29689	31281	HFX_5029	beta-D-glucosidase
+CDS	31378	32289	HFX_5030	sugar ABC transporter permease protein
+CDS	32291	33268	HFX_5031	sugar ABC transport system permease protein
+CDS	33420	34736	HFX_5032	putative extracellular solute binding protein
+CDS	34888	36039	HFX_5033	mandelate racemase/muconate lactonizing family protein / galactonate dehydratase
+CDS	36106	36849	HFX_5034	transcriptional regulator
+CDS	36868	37938	HFX_5035	glucose 1-dehydrogenase
+CDS	38265	39683	HFX_5036	chitinase
+CDS	39738	41180	HFX_5037	chitinase
+CDS	41177	42889	HFX_5038	chitinase
+CDS	43188	44840	HFX_5039	chitinase
+CDS	45784	47613	HFX_5040	siderophore biosynthesis protein
+CDS	47610	49010	HFX_5041	siderophore biosynthesis protein (lysine 6-monooxygenase)
+CDS	49003	49602	HFX_5042	siderophore biosynthesis protein (malonyl-CoA decarboxylase-like protein)
+CDS	49599	51398	HFX_5043	siderophore biosynthesis protein
+CDS	51395	52936	HFX_5044	"L-2,4-diaminobutyrate decarboxylase (siderophore biosynthesis protein)"
+CDS	52933	54300	HFX_5045	diaminobutyrate--pyruvate aminotransferase (siderophore biosynthesis protein)
+CDS	54668	56014	HFX_5046	cytochrome P450
+CDS	56126	56923	HFX_5047	hypothetical protein
+CDS	57006	57935	HFX_5048	hypothetical protein
+CDS	58041	58436	HFX_5049	hypothetical protein
+CDS	58510	59838	HFX_5050	hypothetical protein
+CDS	60081	61388	HFX_5051	"cobyrinic acid a,c-diamide synthase"
+CDS	61388	62176	HFX_5052	cobalt-precorrin-6Y C(5)-methyltransferase
+CDS	62169	62849	HFX_5053	precorrin-8X methylmutase
+CDS	62842	66678	HFX_5054	cobalamin biosynthesis protein / cobaltochelatase CobN
+CDS	66727	68904	HFX_5055	protporphyrin IX magnesium chelatase / magnesium chelatase subunit ChlI
+CDS	68938	70167	HFX_5056	Tup1 like transcriptional repressor
+CDS	70174	70551	HFX_5057	hypothetical protein
+CDS	70554	71768	HFX_5058	colbalt chelase thioredoxin
+CDS	71768	72436	HFX_5059	hypothetical protein
+CDS	72433	72684	HFX_5060	hypothetical protein
+CDS	72686	73717	HFX_5061	precorrin-3B C17-methyltransferase
+CDS	73720	74571	HFX_5062	precorrin-3B C17-methyltransferase
+CDS	74568	75536	HFX_5063	cobalamin biosynthesis protein CbiG
+CDS	75533	76372	HFX_5064	precorrin-4 C11-methyltransferase
+CDS	76369	77076	HFX_5065	cobalt-precorrin-2 C(20)-methyltransferase
+CDS	77076	77579	HFX_5066	precorrin-8W decarboxylase
+CDS	77799	78461	HFX_5067	cobalt transport protein CbiM
+CDS	78458	78730	HFX_5068	"CbiN protein (ABC-type cobalt transport system, periplasmic component)"
+CDS	78714	79478	HFX_5069	CbiQ protein (ABC-type cobalt transport system permease protein 1)
+CDS	79475	80188	HFX_5070	CbiO protein (ABC-type cobalt transport system ATP-binding protein)
+CDS	80842	81663	HFX_5073	hypothetical protein
+CDS	81757	82140	HFX_5075	hypothetical protein
+CDS	82091	82264	HFX_5074	hypothetical protein
+CDS	82633	83331	HFX_5076	dethiobiotin synthase
+CDS	83342	84556	HFX_5077	8-amino-7-oxononanoate synthase
+CDS	84561	85622	HFX_5078	hypothetical protein
+CDS	85624	86739	HFX_5079	biotin synthase
+CDS	86932	87633	HFX_5080	short-chain dehydrogenase/reductase SDR
+CDS	87801	88784	HFX_5081	hypothetical protein
+CDS	88939	89757	HFX_5082	"putative nos system protein, ABC-type copper transport system, permease protein"
+CDS	89754	90680	HFX_5083	ABC transporter ATP-binding protein
+CDS	91216	92022	HFX_5084	hypothetical protein
+CDS	92078	92689	HFX_5086	Cu(I) protein of the nitrous oxide reductase (nos) gene cluster (NosL)
+CDS	92216	92725	HFX_5085	hypothetical protein
+CDS	92694	93647	HFX_5087	ABC-type transport system involved in multi-copper enzyme maturation permease component
+CDS	93644	94639	HFX_5088	ABC transporter ATP-binding protein
+CDS	94626	96011	HFX_5089	copper binding protein
+CDS	96019	96777	HFX_5090	hypothetical protein
+CDS	96781	98793	HFX_5091	nitrous-oxide reductase
+CDS	98794	99315	HFX_5092	copper-binding plastocyanin like protein
+CDS	99789	100070	HFX_5093	hypothetical protein
+CDS	99965	100366	HFX_5095	hypothetical protein
+CDS	100151	100387	HFX_5094	Uncharacterized conserved protein (DUF2249)
+CDS	100450	101676	HFX_5096	hypothetical protein
+CDS	102441	103025	HFX_5097	hypothetical protein
+CDS	103029	104342	HFX_5098	Mrp protein
+CDS	104345	105175	HFX_5099	protein phosphatase
+CDS	105172	106092	HFX_5100	hypothetical protein
+CDS	106089	106817	HFX_5101	chaperone protein
+CDS	106819	107649	HFX_5102	"DMSO reductase family type II enzyme, heme b subunit"
+CDS	107880	108938	HFX_5103	nitrate reductase beta chain
+CDS	108935	111889	HFX_5104	nitrate reductase alpha chain
+CDS	111886	112098	HFX_5105	hypothetical protein
+CDS	112091	113548	HFX_5106	cytochrome b/b6
+CDS	113548	114210	HFX_5107	putative Rieske iron-sulfur protein
+CDS	114210	114785	HFX_5108	hypothetical protein
+CDS	115118	115744	HFX_5109	DNA binding protein putative transcriptional regulator
+CDS	115939	117246	HFX_5110	major facilitator superfamily transporter quinolone resistance protein
+CDS	117324	117980	HFX_5111	hypothetical protein
+CDS	118067	121258	HFX_5112	lantibiotic modifying enzyme
+CDS	121888	123489	HFX_5113	hypothetical protein
+CDS	124219	124425	HFX_5114	hypothetical protein
+CDS	124237	124428	HFX_5115	hypothetical protein
+CDS	124647	127868	HFX_5116	lantibiotic modifying enzyme
+CDS	128048	128896	HFX_5117	hypothetical protein
+CDS	128889	129953	HFX_5118	ABC transporter ATP-binding protein
+CDS	130296	131984	HFX_5119	(chitin-binding domain type 3)-containing protein
+CDS	132120	132308	HFX_5120	hypothetical protein
+CDS	133272	135044	HFX_5121	histidine kinase
+CDS	135412	136209	HFX_5122	hypothetical protein
+CDS	136773	137429	HFX_5124	transcription regulator
+CDS	138056	139108	HFX_5127	methyltransferase family protein
+CDS	139141	140034	HFX_5128	epoxide hydrolase-related protein
+CDS	140422	142377	HFX_5129	acyl-CoA synthetase
+CDS	142522	144288	HFX_5130	bacterio-opsin activator-like protein
+CDS	144492	146486	HFX_5131	acyl-CoA synthetase
+CDS	146534	146977	HFX_5132	hypothetical protein
+CDS	146974	148623	HFX_5133	sodium/solute symporter
+CDS	148627	149091	HFX_5134	universal stress protein
+CDS	149184	149396	HFX_5135	hypothetical protein
+CDS	149529	150926	HFX_5136	selenium-binding protein
+CDS	150931	151254	HFX_5137	ferredoxin
+CDS	151460	153571	HFX_5138	subtilisin-like protease C
+CDS	154162	155544	HFX_5139	putative dioxygenase alpha subunit YeaW / large terminal subunit of phenylpropionate dioxygenase
+CDS	155537	156043	HFX_5140	small terminal subunit of phenylpropionate dioxygenase
+CDS	156076	156555	HFX_5141	hypothetical protein
+CDS	156623	158176	HFX_5142	histidine ammonia-lyase
+CDS	158488	158865	HFX_5143	"putative conserved protein, contains double-stranded beta-helix domain"
+CDS	159010	159735	HFX_5144	Hemerythrin HHE cation binding region
+CDS	159887	161254	HFX_5145	nicotinate phosphoribosyltransferase
+CDS	161393	162673	HFX_5146	major facilitator family oxalate/formate antiporter
+CDS	162847	163566	HFX_5147	transcription regulator
+CDS	163660	164103	HFX_5148	hsp20-type chaperone
+CDS	164991	165770	HFX_5149	ABC-type transport system ATP-binding protein
+CDS	165767	167377	HFX_5150	hypothetical protein
+CDS	167520	167882	HFX_5151	hypothetical protein
+CDS	167956	168408	HFX_5152	hypothetical protein
+CDS	168646	169611	HFX_5153	DMT(drug/metabolite transporter) superfamily permease
+CDS	169817	170605	HFX_5154	putative DNA binding protein
+CDS	170677	170838	HFX_5156	hypothetical protein
+CDS	170810	171226	HFX_5155	hypothetical protein
+CDS	170918	171535	HFX_5157	Methyltransferase type 11
+CDS	171790	172020	HFX_5158	hypothetical protein
+CDS	172272	173786	HFX_5159	hypothetical protein
+CDS	173998	175176	HFX_5160	hypothetical protein
+CDS	175183	175977	HFX_5161	ABC transporter ATP-binding protein
+CDS	176072	177253	HFX_5162	ABC transporter permease protein
+CDS	177315	178487	HFX_5163	ABC transporter permease protein
+CDS	178720	179508	HFX_5164	PQQ repeat-containing protein
+CDS	179612	180478	HFX_5165	hypothetical protein
+CDS	181195	183141	HFX_5166	threonyl-tRNA synthetase
+CDS	183298	184125	HFX_5167	hypothetical protein
+CDS	184196	185545	HFX_5168	2-methylcitrate dehydratase
+CDS	185908	186177	HFX_5169	hypothetical protein
+CDS	186388	187308	HFX_5170	cysteine synthase A
+CDS	187509	188867	HFX_5171	Mrr restriction system protein-like protein
+CDS	188905	189090	HFX_5172	hypothetical protein
+CDS	189684	191063	HFX_5173	hypothetical protein
+CDS	191060	191773	HFX_5174	hypothetical protein
+CDS	191926	192699	HFX_5175	transcription regulator
+CDS	192727	193803	HFX_5176	"isopentenyl-diphosphate delta-isomerase, type II"
+CDS	194002	195012	HFX_5177	transcription initiation factor TFB
+CDS	195050	195382	HFX_5178	hypothetical protein
+CDS	195882	198545	HFX_5179	putative DNA binding protein
+CDS	198562	198720	HFX_5180	hypothetical protein
+CDS	199049	200851	HFX_5181	subtilisin-like serine protease
+CDS	201010	201495	HFX_5182	hypothetical protein
+CDS	201650	202996	HFX_5183	"Mn2+/Fe2- transporter, NRAMP family"
+CDS	203008	203382	HFX_5184	SH3 domain protein
+CDS	203549	204043	HFX_5185	putative IS240-type transposase (ISH103)
+CDS	204643	205383	HFX_5187	hypothetical protein
+CDS	206416	206832	HFX_5189	hypothetical protein
+CDS	207568	209139	HFX_5190	putative acyl-CoA transferase (homolg to 3-oxoacid CoA-transferase)
+CDS	209433	211214	HFX_5191	N-methylhydantoinase B (ATP-hydrolyzing)
+CDS	211211	213265	HFX_5192	N-methylhydantoinase A (ATP-hydrolyzing)
+CDS	213467	215137	HFX_5193	"ABC-type dipeptide/oligopeptide/nickel transport system, substrate-binding protein"
+CDS	215147	216166	HFX_5194	"ABC-type dipeptide/oligopeptide/nickel transport systems, permease protein"
+CDS	216168	217070	HFX_5195	oligopeptide transport system permease protein OppC
+CDS	217070	218221	HFX_5196	dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein
+CDS	218218	219327	HFX_5197	dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein
+CDS	219353	221401	HFX_5198	N-methylhydantoinase A (ATP-hydrolyzing)
+CDS	221404	223236	HFX_5199	N-methylhydantoinase B (ATP-hydrolyzing)
+CDS	223233	223565	HFX_5200	cupin 2 domain-containing protein
+CDS	223575	224108	HFX_5201	Lrp/AsnC family transcription regulator
+CDS	224414	224908	HFX_5202	hypothetical protein
+CDS	224905	225243	HFX_5203	"putative transcriptional regulator, ArsR family protein"
+CDS	225541	226257	HFX_5204	putative esterase
+CDS	226491	227618	HFX_5205	zinc-binding dehydrogenase / S-(hydroxymethyl)glutathione dehydrogenase
+CDS	227775	228125	HFX_5206	hypothetical protein
+CDS	228191	228394	HFX_5209	hypothetical protein
+CDS	228242	228637	HFX_5208	hypothetical protein
+CDS	228679	229893	HFX_5210	putative metal ion permease
+CDS	230074	231255	HFX_5211	"signal transduction histidine kinase / two-component system, OmpR family, sensor histidine kinase CreC"
+CDS	231312	231899	HFX_5212	amino acid transporter
+CDS	231956	234301	HFX_5213	putative cationic amino acid transport protein
+CDS	234459	234734	HFX_5214	hypothetical protein
+CDS	234740	235486	HFX_5215	3-ketoacyl-acyl carrier protein reductase (PhaB)
+CDS	235757	236233	HFX_5216	hypothetical protein
+CDS	236539	237198	HFX_5217	enoyl-CoA hydratase
+CDS	237387	237719	HFX_5218	poly(3-hydroxyalkanoate) granule-associated 12 kDa protein
+CDS	237712	238176	HFX_5219	poly(3-hydroxyalkanoate) granule-associated protein(phasin)
+CDS	238219	238767	HFX_5220	poly(3-hydroxyalkanoate) synthase subunit PhaE
+CDS	238764	240242	HFX_5221	poly(3-hydroxyalkanoate) synthase subunit PhaC
+CDS	240267	240689	HFX_5223	universal stress protein
+CDS	240348	240797	HFX_5222	hypothetical protein
+CDS	241177	241326	HFX_5224	hypothetical protein
+tRNA	241596	241679	HFX_5225	tRNA-Ser
+CDS	241888	242193	HFX_5226	hypothetical protein
+CDS	242269	243297	HFX_5227	putative zinc-binding oxidoreductase
+CDS	243615	244253	HFX_5228	phosphoribosyltransferase
+CDS	244305	244451	HFX_5229	hypothetical protein
+CDS	244453	245331	HFX_5230	universal stress protein UspA-like protein
+CDS	245552	245980	HFX_5231	MaoC family protein
+CDS	246124	248460	HFX_5232	copper-transporting ATPase CopA
+CDS	248508	249491	HFX_5233	deoxyhypusine synthase
+CDS	249688	249867	HFX_5234	hypothetical protein
+CDS	250174	251508	HFX_5235	nitrite reductase copper containing protein
+CDS	251509	252720	HFX_5236	putative metal cation transporter
+CDS	252759	253187	HFX_5237	copper-binding plastocyanin like protein
+CDS	253228	253920	HFX_5238	transcription repressor
+CDS	253973	254455	HFX_5239	hypothetical protein
+CDS	254452	255414	HFX_5240	hypothetical protein
+CDS	255485	256567	HFX_5241	hypothetical protein
+CDS	256581	256853	HFX_5242	hypothetical protein
+CDS	256808	256969	HFX_5243	hypothetical protein
+CDS	257327	259354	HFX_5244	hypothetical protein
+CDS	259351	259536	HFX_5245	hypothetical protein
+CDS	259701	260357	HFX_5246	HTH DNA binding domain-containing protein
+CDS	260560	261159	HFX_5247	hypothetical protein
+CDS	261156	262778	HFX_5248	alkaline phosphatase D
+CDS	262967	263161	HFX_5249	hypothetical protein
+CDS	263347	268923	HFX_5250	hypothetical protein
+CDS	268920	273032	HFX_5251	hypothetical protein
+CDS	273032	276460	HFX_5252	hypothetical protein
+CDS	276555	276926	HFX_5253	hypothetical protein
+CDS	277074	278036	HFX_5254	methanol dehydrogenase regulatory protein
+CDS	278078	278554	HFX_5255	hypothetical protein
+CDS	278577	280559	HFX_5256	hypothetical protein
+CDS	280556	281326	HFX_5257	hypothetical protein
+CDS	281548	281811	HFX_5258	hypothetical protein
+CDS	281944	282960	HFX_5259	ABC transporter ATP-binding protein
+CDS	282953	283735	HFX_5260	hypothetical protein
+CDS	283819	284523	HFX_5261	hypothetical protein
+CDS	284610	285317	HFX_5262	hypothetical protein
+CDS	285376	285558	HFX_5263	hypothetical protein
+CDS	286110	287189	HFX_5264	Halocin H4
+CDS	287190	287597	HFX_5265	hypothetical protein
+CDS	288084	289499	HFX_5266	"ABC-type dipeptide/oligopeptide/nickel transport system, substrate binding protein"
+CDS	289572	290522	HFX_5267	"ABC-type dipeptide/oligopeptide/nickel transport systems, permease protein"
+CDS	290519	291454	HFX_5268	"ABC-type dipeptide/oligopeptide/nickel transport system, permease protein II"
+CDS	291451	292542	HFX_5269	dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein
+CDS	292539	293567	HFX_5270	"ABC-type dipeptide/oligopeptide/nickel transport system, ATPase protein II"
+CDS	293676	294404	HFX_5272	hypothetical protein
+CDS	294410	295828	HFX_5274	hypothetical protein
+CDS	295827	296006	HFX_5273	hypothetical protein
+CDS	296907	297791	HFX_5275	nitrite/nitrate reduction protein
+CDS	297788	298543	HFX_5276	ABC transporter ATP-binding protein
+CDS	298540	299115	HFX_5277	hypothetical protein
+CDS	299676	301148	HFX_5278	sodium-and chloride-dependent transporter
+CDS	301150	301473	HFX_5279	hypothetical protein
+CDS	301647	301829	HFX_5280	hypothetical protein
+CDS	302954	304351	HFX_5281	putative ATPase (AAA+ superfamily)
+CDS	304381	305067	HFX_5282	putative DNA binding protein
+CDS	305829	306044	HFX_5283	hypothetical protein
+CDS	306049	306654	HFX_5284	hypothetical protein
+CDS	306941	307678	HFX_5285	hypothetical protein
+CDS	307775	307927	HFX_5286	hypothetical protein
+CDS	307973	309871	HFX_5287	putative potassium transport protein kefC
+CDS	310430	311050	HFX_5288	hypothetical protein
+CDS	311166	311993	HFX_5289	hypothetical protein
+CDS	312174	313604	HFX_5290	hypothetical protein
+CDS	314059	315360	HFX_5291	hypothetical protein
+CDS	315403	316422	HFX_5292	hypothetical protein
+CDS	316911	317303	HFX_5293	putative flavin-nucleotide-binding protein
+CDS	317342	318871	HFX_5294	sodium/proline symporter
+CDS	318865	319674	HFX_5295	transcriptional activator TenA
+CDS	319671	320336	HFX_5296	transcriptional activator TenA
+CDS	320643	321209	HFX_5297	TATA-binding transcription initiation factor

@@ -1,0 +1,376 @@
+type	geneStart	geneEnd	tag	description
+CDS	201	1433	HVO_B0001	Orc1-type DNA replication protein
+CDS	1555	2712	HVO_B0002	peptidase M20 family protein (homolog to succinyl-diaminopimelate desuccinylase)
+CDS	2760	3179	HVO_B0003	DUF336 family protein
+CDS	3414	4661	HVO_B0004	serine hydroxymethyltransferase
+CDS	5024	6265	HVO_B0005	threonine ammonia-lyase
+CDS	6420	7298	HVO_B0006	uncharacterized protein
+CDS	7541	8191	HVO_B0007	HTH-10 family transcription regulator
+CDS	8220	8594	HVO_B0008	uncharacterized protein
+CDS	8587	9729	HVO_B0009	aromatic-ring-hydroxylating dioxygenase alpha subunit family protein
+CDS	9927	11069	HVO_B0011	sarcosine oxidase
+CDS	11360	13114	HVO_B0012	compatible solute transport protein (probable substrate choline/glycine betaine)
+CDS	13151	13309	HVO_B0013	uncharacterized protein
+CDS	13523	16036	HVO_B0014	folate-binding FAD-dependent oxidoreductase (homolog to dimethylglycine oxidase)
+CDS	16218	16460	HVO_B0015	uncharacterized protein
+CDS	16592	16822	HVO_B0016	uncharacterized protein
+CDS	16978	17400	HVO_B0017	uncharacterized protein
+CDS	17397	18260	HVO_B0018	ParA domain protein
+CDS	18465	19892	HVO_B0019	putative sodium/anion symporter
+CDS	20051	20704	HVO_B0020	HTH-10 family transcription regulator
+CDS	20822	22756	HVO_B0021	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	22808	23803	HVO_B0022	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	23800	24720	HVO_B0023	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	24717	26834	HVO_B0024	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	27220	28260	HVO_B0025	oxidoreductase (homolog to zinc-containing alcohol dehydrogenase)
+CDS	28359	29132	HVO_B0026	putative oxidoreductase (short-chain dehydrogenase family)
+CDS	29918	30787	HVO_B0027	2-keto-3-deoxyxylonate dehydratase
+CDS	30784	31956	HVO_B0028	xylose dehydrogenase (NADP)
+CDS	32017	32994	HVO_B0029	putative sugar dehydrogenase (NADP)
+CDS	33019	33894	HVO_B0030	putative D-xylonolactonase
+CDS	34036	34797	HVO_B0031	putative oxidoreductase (short-chain dehydrogenase family)
+CDS	34897	35661	HVO_B0032	L-arabinose 1-dehydrogenase (NAD(P))
+CDS	35918	37297	HVO_B0034	ABC-type transport system periplasmic substrate-binding protein (probable substrate sugar)
+CDS	37352	38305	HVO_B0035	ABC-type transport system permease protein (probable substrate sugar)
+CDS	38308	39237	HVO_B0036	ABC-type transport system permease protein (probable substrate sugar)
+CDS	39241	40392	HVO_B0037	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CDS	40395	41546	HVO_B0038	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CDS	41808	43046	HVO_B0038A	D-xylonate dehydratase
+CDS	43203	44651	HVO_B0039	alpha-ketoglutarate semialdehyde dehydrogenase
+CDS	44953	45708	HVO_B0040	IclR family transcription regulator XacR
+CDS	46367	48205	HVO_B0041	siderophore biosynthesis protein IucC
+CDS	48214	49587	HVO_B0042	"putative 1,3-diaminopropane N-3-monooxygenase"
+CDS	49584	50225	HVO_B0043	putative N4-hydroxy-1-aminopropane O-acetyltransferase
+CDS	50222	52003	HVO_B0044	siderophore biosynthesis protein IucA
+CDS	52000	53565	HVO_B0045	diaminobutyrate decarboxylase
+CDS	53562	54941	HVO_B0046	diaminobutyrate--2-oxoglutarate aminotransferase
+CDS	55399	56601	HVO_B0047	ABC-type transport system periplasmic substrate-binding protein
+CDS	56690	57502	HVO_B0048	cobalt-precorrin-7 C5-methyltransferase
+CDS	57495	58175	HVO_B0049	cobalt-precorrin-8 methylmutase
+CDS	58168	62022	HVO_B0050	ATP-dependent cobaltochelatase subunit CobN
+CDS	62067	64187	HVO_B0051	ATP-dependent cobaltochelatase subunit ChlID
+CDS	64223	65461	HVO_B0052	PQQ repeat protein
+CDS	65466	65849	HVO_B0053	DUF3209 family protein
+CDS	65852	67072	HVO_B0054	sirohydrochlorin cobaltochelatase
+CDS	67069	67746	HVO_B0055	uncharacterized protein
+CDS	67743	67997	HVO_B0056	putative ferredoxin (4Fe-4S)
+CDS	67999	69033	HVO_B0057	cobalt-factor-III C17-methyltransferase
+CDS	69037	69921	HVO_B0058	cobalt-factor-III C17-methyltransferase
+CDS	69918	70898	HVO_B0059	cobalt-precorrin-5A hydrolase
+CDS	70891	71730	HVO_B0060	cobalt-precorrin-4 C11-methyltransferase
+CDS	71727	72434	HVO_B0061	cobalt-factor-II C20-methyltransferase
+CDS	72431	72985	HVO_B0062	cobalt-precorrin-6B C15-methyltransferase (decarboxylating)
+CDS	73155	73340	HVO_B0063	CbtB family protein
+CDS	73343	74179	HVO_B0064	CbtA family protein
+CDS	74179	74520	HVO_B0065	thioredoxin domain protein
+CDS	74645	75139	HVO_B0066	Lrp/AsnC family transcription regulator
+CDS	75207	76604	HVO_B0067	transport protein (probable substrate cationic amino acids)
+CDS	76732	76899	HVO_B0068	uncharacterized protein
+CDS	76896	78275	HVO_B0069	aldehyde dehydrogenase
+CDS	78534	79844	HVO_B0070	pyridoxal phosphate-dependent aminotransferase
+CDS	80012	81061	HVO_B0071	oxidoreductase (homolog to zinc-containing alcohol dehydrogenase)
+CDS	81215	81886	HVO_B0072	HTH-10 family transcription regulator
+CDS	81961	82491	HVO_B0073	Lrp/AsnC family transcription regulator
+CDS	82704	83819	HVO_B0074	DUF917 family protein
+CDS	83816	84904	HVO_B0075	DUF917 family protein
+CDS	84904	86448	HVO_B0076	N-methylhydantoinase (ATP-hydrolyzing) A
+CDS	86441	87532	HVO_B0077	DUF917 family protein
+CDS	87529	88599	HVO_B0078	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	88592	89704	HVO_B0079	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	89701	90600	HVO_B0080	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	90597	91628	HVO_B0081	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	91625	93334	HVO_B0082	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	94093	94962	HVO_B0083	gluconolactonase family protein
+CDS	95047	95463	HVO_B0084	DUF336 family protein
+CDS	95639	97255	HVO_B0085	glycoside hydrolase family protein
+CDS	97312	98739	HVO_B0086	sulfatase
+CDS	98848	99978	HVO_B0087	homolog to mandelate racemase / homolog to muconate lactonizing enzyme
+CDS	100122	100340	HVO_B0088	uncharacterized protein
+CDS	100521	101582	HVO_B0089	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	101579	102649	HVO_B0090	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	102695	103717	HVO_B0091	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	103720	104724	HVO_B0092	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	104798	106654	HVO_B0093	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	106769	106990	HVO_B0094	uncharacterized protein
+CDS	107105	107566	HVO_B0095	uspA domain protein
+CDS	107648	108487	HVO_B0096	homolog to sugar epimerase/dehydratase
+CDS	108695	109633	HVO_B0097	dihydrodipicolinate synthase family protein
+CDS	110277	111311	HVO_B0098	SGNH-type esterase domain protein
+CDS	111410	112318	HVO_B0099	auxin permease family transport protein
+CDS	112459	113910	HVO_B0100	aldehyde dehydrogenase
+CDS	113930	114703	HVO_B0101	IclR family transcription regulator
+CDS	114891	115958	HVO_B0102	glycoside hydrolase family protein
+CDS	116059	117156	HVO_B0103	GFO family oxidoreductase
+CDS	117697	117999	HVO_B0104	homolog to L-rhamnose mutarotase
+CDS	118079	118948	HVO_B0105	amidohydrolase domain protein
+CDS	119073	120539	HVO_B0106	ABC-type transport system periplasmic substrate-binding protein (probable substrate sugar)
+CDS	120598	121524	HVO_B0107	ABC-type transport system permease protein (probable substrate sugar)
+CDS	121524	122489	HVO_B0108	ABC-type transport system permease protein (probable substrate sugar)
+CDS	122585	123766	HVO_B0109	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CDS	123935	124969	HVO_B0110	oxidoreductase (homolog to zinc-containing alcohol dehydrogenase)
+CDS	125057	126262	HVO_B0111	homolog to mandelate racemase / homolog to muconate lactonizing enzyme
+CDS	126265	127293	HVO_B0113	putative F420-dependent oxidoreductase
+CDS	127509	128267	HVO_B0114	IclR family transcription regulator
+CDS	128367	129218	HVO_B0115	fumarylacetoacetase family protein
+CDS	129270	130067	HVO_B0116	putative oxidoreductase (short-chain dehydrogenase family)
+CDS	130859	131485	HVO_B0117	uncharacterized protein
+CDS	131576	133510	HVO_B0118	Smc-like protein Sph2
+CDS	133644	134408	HVO_B0119	IclR family transcription regulator
+CDS	134773	135720	HVO_B0120	M20 family amidohydrolase (homolog to p-aminobenzoyl-glutamate hydrolase subunit B)
+CDS	135821	136561	HVO_B0121	putative amidase
+CDS	136615	138201	HVO_B0122	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptides/oligopeptides)
+CDS	138313	139269	HVO_B0123	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	139262	140242	HVO_B0124	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	140423	141673	HVO_B0125	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	141701	142243	HVO_B0126	polysaccharide deacetylase family protein
+CDS	142343	143296	HVO_B0127	oxidoreductase (luciferase family protein)
+CDS	143445	143975	HVO_B0128	putative oxidoreductase (short-chain dehydrogenase family)
+CDS	144202	144381	HVO_B0129	uncharacterized protein
+CDS	144548	144955	HVO_B0130	DUF296 family protein
+CDS	145516	146379	HVO_B0131	uncharacterized protein
+CDS	146490	147707	HVO_B0132	PQQ repeat protein
+CDS	147763	149388	HVO_B0133	uncharacterized protein
+CDS	149385	150161	HVO_B0134	ABC-type transport system ATP-binding protein
+CDS	150248	151114	HVO_B0135	uncharacterized protein
+CDS	151269	152087	HVO_B0136	alpha/beta hydrolase fold protein
+CDS	152220	152906	HVO_B0137	HTH-10 family transcription regulator
+CDS	152981	154204	HVO_B0138	PQQ repeat protein
+CDS	154201	155490	HVO_B0139	PQQ repeat protein
+CDS	155618	156538	HVO_B0140	PQQ repeat protein
+CDS	156528	157784	HVO_B0141	PQQ repeat protein
+CDS	157878	158912	HVO_B0142	ARM/HEAT repeat protein
+CDS	159005	160798	HVO_B0143	receiver/sensor box histidine kinase
+CDS	161105	162310	HVO_B0144	ABC-type transport system periplasmic substrate-binding protein
+CDS	162589	163284	HVO_B0145	creatininase
+CDS	163495	164628	HVO_B0146	aminotransferase class V
+CDS	164917	165570	HVO_B0148	HTH-10 family transcription regulator
+CDS	165739	167340	HVO_B0149	oleate hydratase
+CDS	167680	168900	HVO_B0150	ABC-type transport system periplasmic substrate-binding protein
+CDS	169317	169745	HVO_B0151	NikR family transcription regulator
+CDS	170084	171253	HVO_B0152	ISH3-type transposase ISH51
+CDS	171961	173601	HVO_B0153	CapB domain protein
+CDS	173598	174764	HVO_B0153A	CapC domain protein
+CDS	174818	175231	HVO_B0153B	receiver box response regulator
+CDS	175343	179248	HVO_B0154	receiver/sensor box histidine kinase
+CDS	179511	181244	HVO_B0155	ISH7-type transposase ISHvo14
+CDS	181542	182090	HVO_B0156	uncharacterized protein
+CDS	182603	183952	HVO_B0157	ISH5-type transposase ISHvo11
+CDS	185201	185353	HVO_B0158	small CPxCG-related zinc finger protein
+CDS	185436	186071	HVO_B0159	HTH-10 family transcription regulator
+CDS	186336	186911	HVO_B0160	uncharacterized protein
+CDS	186911	187564	HVO_B0161	respiratory nitrate reductase iron-sulfur subunit
+CDS	187564	189012	HVO_B0162	respiratory nitrate reductase b-type cytochrome subunit
+CDS	189005	189217	HVO_B0163	uncharacterized protein
+CDS	189214	192165	HVO_B0164	respiratory nitrate reductase catalytic subunit
+CDS	192162	193232	HVO_B0165	respiratory nitrate reductase electron transfer subunit
+CDS	193290	194105	HVO_B0166	uncharacterized protein
+CDS	194116	194862	HVO_B0167	chaperonin-like protein
+CDS	194859	195758	HVO_B0168	uncharacterized protein
+CDS	195755	196585	HVO_B0169	HEAT-PBS family protein
+CDS	196588	197886	HVO_B0170	Fe-S cluster carrier protein ApbC
+CDS	198163	198486	HVO_B0171	uncharacterized protein
+CDS	200301	202289	HVO_B0173	Smc-like protein Sph4
+CDS	202650	203291	HVO_B0174	uncharacterized protein
+CDS	203412	204668	HVO_B0175	histidine kinase
+CDS	204905	205864	HVO_B0176	ABC-type transport system permease protein
+CDS	205861	207702	HVO_B0177	ABC-type transport system ATP-binding protein
+CDS	207722	208585	HVO_B0178	uncharacterized protein
+CDS	208868	209665	HVO_B0179	YfiH family protein
+CDS	209658	210395	HVO_B0180	ComB family protein
+CDS	211074	211517	HVO_B0181	DoxX domain protein
+CDS	211615	212589	HVO_B0182	deoxyhypusine synthase
+CDS	212651	213388	HVO_B0183	YgeA family protein
+CDS	213673	215244	HVO_B0184	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	215327	216271	HVO_B0185	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	216268	217164	HVO_B0186	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	217538	218686	HVO_B0187	ABC-type transport system periplasmic substrate-binding protein
+CDS	218689	219627	HVO_B0188	ABC-type transport system permease protein
+CDS	219624	220517	HVO_B0189	ABC-type transport system permease protein
+CDS	220517	221257	HVO_B0190	ABC-type transport system ATP-binding protein
+CDS	221606	223030	HVO_B0191	uncharacterized protein
+CDS	223140	223451	HVO_B0192	uncharacterized protein
+CDS	223453	223824	HVO_B0193	ArsR family transcription regulator
+CDS	224177	225361	HVO_B0194	LppX domain protein
+CDS	225456	225641	HVO_B0195	uncharacterized protein
+CDS	225692	226651	HVO_B0196	histidine kinase
+CDS	226697	227809	HVO_B0197	ABC-type transport system permease protein
+CDS	227816	229012	HVO_B0198	ABC-type transport system periplasmic substrate-binding protein
+CDS	230169	230630	HVO_B0199	deaminase domain protein
+CDS	231494	232804	HVO_B0200	malate synthase
+CDS	232885	233649	HVO_B0201	IclR family transcription regulator
+CDS	233832	234746	HVO_B0202	sensor box protein
+CDS	234870	237893	HVO_B0203	FAD-dependent oxidoreductase (GlcD/DLD_GlcF/GlpC domain fusion protein)
+CDS	238093	238698	HVO_B0204	uncharacterized protein
+CDS	238715	240454	HVO_B0205	laccase
+CDS	240590	242263	HVO_B0206	uncharacterized protein
+CDS	242304	242483	HVO_B0207	uncharacterized protein
+CDS	242688	243539	HVO_B0208	YfiH family protein
+CDS	243635	244597	HVO_B0209	UbiA prenyltransferase family protein
+CDS	244643	245518	HVO_B0210	YfiH family protein
+CDS	245522	246328	HVO_B0211	TatD domain protein
+CDS	246483	246692	HVO_B0212	small CPxCG-related zinc finger protein
+CDS	246774	247970	HVO_B0213	myo-inositol-1-phosphate synthase
+CDS	247967	249367	HVO_B0214	E-NPP family protein
+CDS	249488	254698	HVO_B0215	uncharacterized protein
+CDS	255149	256360	HVO_B0216	UPF0261 family protein
+CDS	256568	257998	HVO_B0217	ABC-type transport system periplasmic substrate-binding protein (probable substrate branched-chain amino acids)
+CDS	258281	259222	HVO_B0218	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+CDS	259219	260373	HVO_B0219	ABC-type transport system permease protein (probable substrate branched-chain amino acids)
+CDS	260373	261131	HVO_B0220	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CDS	261128	261871	HVO_B0221	ABC-type transport system ATP-binding protein (probable substrate branched-chain amino acids)
+CDS	262061	263320	HVO_B0222	PQQ repeat protein
+CDS	263384	264217	HVO_B0223	uncharacterized protein
+CDS	264338	264748	HVO_B0224	cupin 2 barrel domain protein
+CDS	265034	265237	HVO_B0225	uncharacterized protein
+CDS	265677	266630	HVO_B0226	auxin permease family transport protein
+CDS	268117	269256	HVO_B0227	ABC-type transport system ATP-binding protein (probable substrate sugar)
+CDS	269467	270846	HVO_B0228	ABC-type transport system periplasmic substrate-binding protein (probable substrate sugar)
+CDS	270853	271785	HVO_B0229	ABC-type transport system permease protein (probable substrate sugar)
+CDS	271778	272653	HVO_B0230	ABC-type transport system permease protein (probable substrate sugar)
+CDS	272650	273369	HVO_B0231	uncharacterized protein
+CDS	273372	274706	HVO_B0232	neuraminidase family protein
+CDS	274785	276320	HVO_B0233	alpha-L-arabinofuranosidase
+CDS	276941	278107	HVO_B0234	ISH3-type transposase ISH51
+CDS	278878	278985	HVO_B0234A	small CPxCG-related zinc finger protein
+CDS	279171	279377	HVO_B0234B	uncharacterized protein
+CDS	279990	283325	HVO_B0235	putative anaerobic dehydrogenase alpha subunit
+CDS	283322	284839	HVO_B0236	homolog to NADH dehydrogenase 51K subunit
+CDS	285035	285307	HVO_B0237	uncharacterized protein
+CDS	285425	285805	HVO_B0238	enamine/imine deaminase
+CDS	286195	287358	HVO_B0239	formaldehyde dehydrogenase
+CDS	287439	287603	HVO_B0240	uncharacterized protein
+CDS	287729	288964	HVO_B0241	IS1341-type transposase ISHvo18
+CDS	288961	289350	HVO_B0242	IS200-type transposase ISHvo18
+CDS	289493	290614	HVO_B0243	CobW domain protein
+CDS	290894	292654	HVO_B0244	aldehyde ferredoxin oxidoreductase
+CDS	293433	294044	HVO_B0245	molybdenum cofactor guanylyltransferase
+CDS	295154	295918	HVO_B0248	putative oxidoreductase (short-chain dehydrogenase family)
+CDS	297471	297926	HVO_B0250	beta-D-glucosidase
+CDS	298058	299281	HVO_B0251	major facilitator superfamily transport protein
+CDS	300103	300216	HVO_B0252	uncharacterized protein
+CDS	300525	301328	HVO_B0253	"putative inositol-1(or 4)-monophosphatase / fructose-1,6-bisphosphatase, archaeal-type"
+CDS	302018	302815	HVO_B0255	IclR family transcription regulator
+CDS	302870	304537	HVO_B0256	aldehyde ferredoxin oxidoreductase
+CDS	304696	306075	HVO_B0257	pyridoxal phosphate-dependent aminotransferase
+CDS	306094	306480	HVO_B0258	enamine/imine deaminase
+CDS	306556	307209	HVO_B0259	uncharacterized protein
+CDS	307669	309303	HVO_B0260	compatible solute transport protein (probable substrate choline/glycine betaine)
+CDS	309476	310840	HVO_B0261	pyridoxal phosphate-dependent aminotransferase
+CDS	310915	312210	HVO_B0262	threonine ammonia-lyase
+CDS	312207	313517	HVO_B0263	M20 family amidohydrolase (homolog to indole-3-acetyl-aspartate hydrolase)
+CDS	313647	314615	HVO_B0264	putative D-2-hydroxyacid dehydrogenase
+CDS	314622	317768	HVO_B0265	FAD-dependent oxidoreductase (GlcD/DLD_GlcF/GlpC domain fusion protein)
+CDS	317826	319133	HVO_B0266	glutamate dehydrogenase (NAD)
+CDS	319160	320338	HVO_B0267	peptidase M24 family protein (homolog to ectoine hydrolase)
+CDS	320684	321706	HVO_B0268	monooxygenase (homolog to alkanesulfonate monooxygenase)
+CDS	321772	322128	HVO_B0269	uncharacterized protein
+CDS	322163	323644	HVO_B0270	uncharacterized protein
+CDS	324636	325424	HVO_B0272	receiver box HTH-10 family transcription regulator
+CDS	325629	327335	HVO_B0273	sensor box histidine kinase
+CDS	327393	327758	HVO_B0274	uncharacterized protein
+CDS	327755	328153	HVO_B0275	uncharacterized protein
+CDS	328409	329380	HVO_B0276	DMT superfamily transport protein
+CDS	329580	330368	HVO_B0277	HTH domain protein
+CDS	330468	330629	HVO_B0278	uncharacterized protein
+CDS	330697	331314	HVO_B0279	putative S-adenosylmethionine-dependent methyltransferase
+CDS	331659	331859	HVO_B0280	uncharacterized protein
+CDS	331999	332268	HVO_B0281	uncharacterized protein
+CDS	332280	333530	HVO_B0282	HTH domain protein
+CDS	333644	334417	HVO_B0283	HTH-10 family transcription regulator
+CDS	334517	334819	HVO_B0284	"translation initiation factor aIF-1 (SUI1 protein, bacterial-type IF3)"
+CDS	334990	336024	HVO_B0285	transcription initiation factor TFB
+CDS	336166	336606	HVO_B0286	uncharacterized protein
+CDS	336700	337218	HVO_B0287	TRAM domain protein
+CDS	337368	337565	HVO_B0288	uncharacterized protein
+CDS	337707	338765	HVO_B0289	biotin synthase
+CDS	338888	339652	HVO_B0290	"putative inositol-1(or 4)-monophosphatase / fructose-1,6-bisphosphatase, archaeal-type"
+CDS	339767	340444	HVO_B0291	glycerophosphodiester phosphodiesterase
+CDS	340588	342057	HVO_B0292	ABC-type transport system periplasmic substrate-binding protein (probable substrate glycerol-3-phosphate)
+CDS	342080	342973	HVO_B0293	ABC-type transport system permease protein (probable substrate glycerol-3-phosphate)
+CDS	342978	343844	HVO_B0294	ABC-type transport system permease protein (probable substrate glycerol-3-phosphate)
+CDS	343855	344988	HVO_B0295	ABC-type transport system ATP-binding protein (probable substrate glycerol-3-phosphate)
+CDS	345036	345437	HVO_B0296	uncharacterized protein
+CDS	345549	345725	HVO_B0297	uncharacterized protein
+CDS	346327	346677	HVO_B0299	5-hydroxyisourate hydrolase
+CDS	346679	347605	HVO_B0300	uricase
+CDS	347763	348269	HVO_B0301	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+CDS	348353	349732	HVO_B0302	putative allantoinase
+CDS	349819	351243	HVO_B0303	xanthine/uracil permease family transport protein
+CDS	351407	351538	HVO_B0304	uncharacterized protein
+CDS	351603	352019	HVO_B0305	uncharacterized protein
+CDS	352046	353365	HVO_B0306	amidase (hydantoinase/carbamoylase family)
+CDS	353411	353542	HVO_B0307	uncharacterized protein
+CDS	354247	354765	HVO_B0308	molybdopterin-containing oxidoreductase small subunit
+CDS	354767	357130	HVO_B0309	molybdopterin-containing oxidoreductase large subunit
+CDS	357127	357996	HVO_B0310	molybdopterin-containing oxidoreductase medium subunit
+CDS	358112	359077	HVO_B0311	hypothetical protein
+CDS	359107	359250	HVO_B0312	uncharacterized protein
+CDS	359247	359831	HVO_B0313	molybdenum cofactor nucleotidyltransferase domain protein
+CDS	360154	361143	HVO_B0314	ABC-type transport system permease protein (substrate glucose)
+CDS	361140	362282	HVO_B0315	ABC-type transport system permease protein (substrate glucose)
+CDS	362279	363931	HVO_B0316	ABC-type transport system ATP-binding protein (substrate glucose)
+CDS	364128	365807	HVO_B0317	adenine deaminase
+CDS	365977	367152	HVO_B0318	ABC-type transport system periplasmic substrate-binding protein (substrate glucose)
+CDS	367486	368280	HVO_B0319	IclR family transcription regulator
+CDS	368668	369435	HVO_B0320	IclR family transcription regulator
+CDS	369539	370645	HVO_B0321	GFO family oxidoreductase
+CDS	370745	372844	HVO_B0322	pectate lyase domain protein
+CDS	373220	374368	HVO_B0323	oxidoreductase domain protein
+CDS	374420	375769	HVO_B0324	uncharacterized protein
+CDS	375818	377467	HVO_B0325	glycoside hydrolase family protein
+CDS	377474	378460	HVO_B0326	uncharacterized protein
+CDS	378951	379193	HVO_B0327	uncharacterized protein
+CDS	379348	381444	HVO_B0328	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	381652	383778	HVO_B0329	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	384012	384203	HVO_B0330	uncharacterized protein
+CDS	384446	385507	HVO_B0331	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	385504	386619	HVO_B0332	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	386757	387875	HVO_B0333	GFO family oxidoreductase
+CDS	387954	388988	HVO_B0334	GFO family oxidoreductase
+CDS	389121	390365	HVO_B0335	major facilitator superfamily transport protein
+CDS	390456	390767	HVO_B0336	putative hydrolase C-terminus
+CDS	391344	391652	HVO_B0337	SAF domain protein
+CDS	391649	392839	HVO_B0338	putative hydro-lyase (homolog to altronate dehydratase)
+CDS	392926	393609	HVO_B0339	uncharacterized protein
+CDS	393703	394356	HVO_B0340	uncharacterized protein
+CDS	394417	394662	HVO_B0341	uncharacterized protein
+CDS	394719	395801	HVO_B0342	oxidoreductase (luciferase family protein)
+CDS	395884	397317	HVO_B0343	glycoside hydrolase family protein
+CDS	397381	397845	HVO_B0344	uspA domain protein
+CDS	397954	399090	HVO_B0345	homolog to mandelate racemase / homolog to muconate lactonizing enzyme
+CDS	399189	400430	HVO_B0346	homolog to mandelate racemase / homolog to muconate lactonizing enzyme
+CDS	400523	401575	HVO_B0347	GFO family oxidoreductase
+CDS	401690	402628	HVO_B0348	dihydrodipicolinate synthase family protein
+CDS	402843	404792	HVO_B0349	uncharacterized protein
+CDS	405285	406007	HVO_B0350	ThuA family protein
+CDS	406210	406635	HVO_B0351	uncharacterized protein
+CDS	406887	407240	HVO_B0352	cupin 2 barrel domain protein
+CDS	407283	408113	HVO_B0353	putative carbon-nitrogen hydrolase
+CDS	408141	410444	HVO_B0354	uncharacterized protein
+CDS	410664	411635	HVO_B0355	uncharacterized protein
+CDS	411652	412176	HVO_B0356	uncharacterized protein
+CDS	412183	414009	HVO_B0357	polyamine aminopropyltransferase
+CDS	414079	414804	HVO_B0358	uncharacterized protein
+CDS	414982	416148	HVO_B0359	YidE family protein
+CDS	416397	417659	HVO_B0360	uncharacterized protein
+CDS	417818	418459	HVO_B0361	HTH-10 family transcription regulator
+CDS	418592	418831	HVO_B0362	uncharacterized protein
+CDS	418824	421355	HVO_B0363	dimethylsulfoxide reductase subunit A
+CDS	421358	422179	HVO_B0364	dimethylsulfoxide reductase subunit B
+CDS	422179	423492	HVO_B0365	dimethylsulfoxide reductase subunit C
+CDS	423489	424082	HVO_B0366	Tat proofreading chaperone DmsD
+CDS	424234	424707	HVO_B0367	uncharacterized protein
+CDS	424712	425470	HVO_B0368	molybdenum cofactor guanylyltransferase
+CDS	425467	426384	HVO_B0369	ABC-type transport system periplasmic substrate-binding protein (probable substrate molybdate)
+CDS	426365	427174	HVO_B0370	ABC-type transport system permease protein (probable substrate molybdate)
+CDS	427389	428879	HVO_B0371	aldehyde dehydrogenase
+CDS	429092	429286	HVO_B0372	uncharacterized protein
+CDS	429468	429683	HVO_B0374	uncharacterized protein
+CDS	429920	430657	HVO_B0375	Spo0M family protein
+CDS	430739	431749	HVO_B0376	putative oxidoreductase (aldo-keto reductase family protein)
+CDS	431768	432787	HVO_B0377	FemAB family protein
+CDS	433048	433440	HVO_B0378	putative PPOX family oxidoreductase
+CDS	433504	435033	HVO_B0379	SSSF family transport protein
+CDS	435027	435812	HVO_B0380	thiamine biosynthesis/salvage protein TenA
+CDS	435809	436474	HVO_B0381	thiamine biosynthesis/salvage protein TenA
+CDS	436747	437313	HVO_B0382	TATA-binding transcription initiation factor

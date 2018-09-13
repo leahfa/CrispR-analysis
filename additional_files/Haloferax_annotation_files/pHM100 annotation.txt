@@ -1,0 +1,130 @@
+type	geneStart	geneEnd	tag	description
+CDS	1	1380	HFX_4001	cell division control protein cdc6-like protein
+CDS	1808	2206	HFX_4002	hypothetical protein
+CDS	2203	3078	HFX_4003	ParA domain-containing protein
+CDS	3540	3692	HFX_4004	hypothetical protein
+CDS	3908	4642	HFX_4005	transcription regulator-like protein
+CDS	4731	5843	HFX_4006	fused rhodanese domain-containing protein/hydrolase
+CDS	5847	7139	HFX_4007	tetracyclin resistance protein
+CDS	7756	8199	HFX_4008	hypothetical protein
+CDS	8310	9089	HFX_4010	3-oxoacyl-[acyl-carrier protein] reductase
+CDS	9221	9439	HFX_4011	hypothetical protein
+CDS	9429	10151	HFX_4012	hypothetical protein
+CDS	10161	11378	HFX_4014	acyl-CoA dehydrogenase
+CDS	10341	11435	HFX_4013	hypothetical protein
+CDS	11518	12588	HFX_4015	aminoglycoside phosphotransferase
+CDS	12833	14797	HFX_4016	3-hydroxybutyryl-CoA dehydrogenase
+CDS	15360	15887	HFX_4017	hypothetical protein
+CDS	16130	17269	HFX_4018	acyl-CoA dehydrogenase
+CDS	17407	17634	HFX_4019	hypothetical protein
+CDS	17817	19385	HFX_4020	long-chain acyl-CoA synthetase
+CDS	19733	20164	HFX_4021	sterol carrier protein
+CDS	20325	21392	HFX_4022	alcohol dehydrogenase
+CDS	21508	23076	HFX_4023	aldehyde dehydrogenase (NAD+)
+CDS	23500	24753	HFX_4024	sugar phosphate permease
+CDS	24967	26229	HFX_4025	alkyl sulfatase-like hydrolase
+CDS	26500	26754	HFX_4026	alkyl sulfatase-like hydrolase
+CDS	26890	27612	HFX_4027	transcription regulator
+CDS	27650	27982	HFX_4028	hypothetical protein
+CDS	28365	28514	HFX_4030	putative transposase
+CDS	28983	29228	HFX_4031	hypothetical protein
+CDS	29528	30115	HFX_4032	hypothetical protein
+CDS	30209	30376	HFX_4033	hypothetical protein
+CDS	31136	31960	HFX_4034	hypothetical protein
+CDS	32086	32901	HFX_4035	hypothetical protein
+CDS	32834	33184	HFX_4036	hypothetical protein
+CDS	33661	33852	HFX_4037	thioredoxin domain-containing protein
+CDS	33804	33962	HFX_4038	hypothetical protein
+CDS	34072	34473	HFX_4039	hypothetical protein
+CDS	34852	35343	HFX_4040	hypothetical protein
+CDS	36232	36636	HFX_4041	hypothetical protein
+CDS	38892	39113	HFX_4044	hypothetical protein
+CDS	39585	41324	HFX_4045	"ABC-type dipeptide/oligopeptide/nickel transport system, substrate binding protein"
+CDS	41321	42352	HFX_4046	"ABC-type dipeptide/oligopeptide/nickel transport systems, permease protein"
+CDS	42349	43248	HFX_4047	"ABC-type dipeptide/oligopeptide/nickel transport system, permease protein II"
+CDS	43245	44357	HFX_4048	dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein
+CDS	44350	45423	HFX_4049	dipeptide/oligopeptide/nickel ABC transporter ATP-binding protein
+CDS	45420	46511	HFX_4050	hypothetical protein
+CDS	46504	48048	HFX_4051	N-methylhydantoinase A (ATP-hydrolyzing)
+CDS	48048	49136	HFX_4052	hypothetical protein
+CDS	49133	50248	HFX_4053	putative hydantoinase
+CDS	50481	51011	HFX_4054	Lrp/AsnC family transcription regulator
+CDS	51297	51959	HFX_4056	HTH DNA binding domain-containing protein
+CDS	52059	52973	HFX_4057	glycosyl transferase
+CDS	53145	53510	HFX_4058	conjugation protein
+CDS	53599	54609	HFX_4059	putative Prolyl aminopeptidase
+CDS	54969	57863	HFX_4060	alpha-glucosidase
+CDS	58413	59132	HFX_4061	hypothetical protein
+CDS	59129	59671	HFX_4062	hypothetical protein
+CDS	59873	60529	HFX_4063	transcription regulator
+CDS	60837	61100	HFX_4064	hypothetical protein
+CDS	61217	61501	HFX_4065	transcription regulator
+CDS	61547	62041	HFX_4066	transcription initiation factor TFB
+CDS	62174	63238	HFX_4067	hypothetical protein
+CDS	63555	64544	HFX_4068	hypothetical protein
+CDS	64776	65213	HFX_4069	hypothetical protein
+CDS	65917	66111	HFX_4070	Mrr restriction system protein-like protein
+CDS	66131	67354	HFX_4071	hypothetical protein
+CDS	67489	67842	HFX_4072	nucleotidyltransferase family protein
+CDS	70285	70653	HFX_4073	hypothetical protein
+CDS	70754	72781	HFX_4074	HEAT repeat protein
+CDS	72778	72936	HFX_4075	hypothetical protein
+CDS	72999	74243	HFX_4076	hypothetical protein
+CDS	75041	75334	HFX_4077	hypothetical protein
+CDS	75636	76559	HFX_4078	hypothetical protein
+CDS	76665	76844	HFX_4079	hypothetical protein
+CDS	77026	77793	HFX_4080	hypothetical protein
+CDS	78299	78553	HFX_4083	hypothetical protein
+CDS	78623	78913	HFX_4084	regulatory protein
+CDS	79010	79405	HFX_4086	hypothetical protein
+CDS	79190	79501	HFX_4085	hypothetical protein
+CDS	79483	79650	HFX_4087	hypothetical protein
+CDS	79851	80309	HFX_4088	hypothetical protein
+CDS	80416	80856	HFX_4090	hypothetical protein
+CDS	80939	81319	HFX_4091	hypothetical protein
+CDS	81632	82060	HFX_4092	hypothetical protein
+CDS	82175	82507	HFX_4093	hypothetical protein
+CDS	82566	83816	HFX_4094	MgtE integral membrane region
+CDS	83922	84155	HFX_4095	hypothetical protein
+CDS	84296	85285	HFX_4096	Ca2+/Na+ antiporter
+CDS	85619	86827	HFX_4097	hypothetical protein
+CDS	87391	88275	HFX_4098	hypothetical protein
+CDS	88336	88785	HFX_4099	hypothetical protein
+CDS	88786	89313	HFX_4100	hypothetical protein
+CDS	89414	89533	HFX_4101	hypothetical protein
+CDS	89571	90485	HFX_4102	transcription initiation factor TFB
+CDS	91445	92218	HFX_4103	hypothetical protein
+CDS	92619	97070	HFX_4105	hypothetical protein
+CDS	97131	97376	HFX_4106	hypothetical protein
+CDS	97774	98775	HFX_4107	hypothetical protein
+CDS	99002	99898	HFX_4108	hypothetical protein
+CDS	100759	101835	HFX_4109	peptide chain release factor 1
+CDS	102450	102635	HFX_4111	hypothetical protein
+CDS	102651	102785	HFX_4112	hypothetical protein
+CDS	102863	103204	HFX_4113	hypothetical protein
+CDS	103201	103560	HFX_4114	hypothetical protein
+CDS	103751	103975	HFX_4115	hypothetical protein
+CDS	104042	104710	HFX_4116	hypothetical protein
+CDS	104765	105604	HFX_4117	putative acyltransferase
+CDS	105658	106194	HFX_4119	hypothetical protein
+CDS	105751	106221	HFX_4118	hypothetical protein
+CDS	107996	109186	HFX_4122	hypothetical protein
+CDS	109162	109371	HFX_4123	hypothetical protein
+CDS	109473	109682	HFX_4125	hypothetical protein
+CDS	109668	110603	HFX_4124	hypothetical protein
+CDS	110684	111043	HFX_4126	"putative transcriptional regulator, ArsR family"
+CDS	111045	111380	HFX_4127	hypothetical protein
+CDS	111377	112207	HFX_4129	isoleucyl-tRNA synthetase
+CDS	112839	113180	HFX_4130	hypothetical protein
+CDS	113224	114045	HFX_4131	hypothetical protein
+CDS	114048	114500	HFX_4132	hypothetical protein
+CDS	114497	115009	HFX_4133	hypothetical protein
+CDS	115087	115278	HFX_4134	hypothetical protein
+CDS	115717	115908	HFX_4136	hypothetical protein
+CDS	115921	116319	HFX_4137	hypothetical protein
+CDS	116459	116638	HFX_4138	hypothetical protein
+CDS	116924	118642	HFX_4139	putative exonuclease of the beta-lactamase fold involved in RNA processing
+CDS	119547	120878	HFX_4141	phage integrase
+CDS	121064	122269	HFX_4143	cell division control protein cdc6-like protein
+CDS	122694	124013	HFX_4144	quinohemoprotein alcohol dehydrogenase
+CDS	127678	127950	HFX_4147	hypothetical protein

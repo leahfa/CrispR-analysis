@@ -1,0 +1,78 @@
+type	geneStart	geneEnd	tag	description
+CDS	101	1327	HVO_C0001	Orc1-type DNA replication protein
+CDS	1621	2058	HVO_C0002	uncharacterized protein
+CDS	2344	3240	HVO_C0003	uncharacterized protein
+CDS	3380	4549	HVO_C0004	ISH3-type transposase ISH51
+CDS	4640	5341	HVO_C0005	uncharacterized protein
+CDS	5497	5742	HVO_C0006	UPF0395 family protein
+CDS	5743	6006	HVO_C0007	uncharacterized protein
+CDS	6138	6419	HVO_C0008	uncharacterized protein
+CDS	6521	6970	HVO_C0009	uncharacterized protein
+CDS	7142	7501	HVO_C0010	uncharacterized protein
+CDS	7721	9085	HVO_C0011	uncharacterized protein
+CDS	9296	9616	HVO_C0012	uncharacterized protein
+CDS	9798	11096	HVO_C0013	ISH8-type transposase ISHvo12
+CDS	11678	12253	HVO_C0015	uncharacterized protein
+CDS	12281	12409	HVO_C0016	uncharacterized protein
+CDS	12637	13536	HVO_C0017	ParA domain protein
+CDS	13539	13925	HVO_C0018	uncharacterized protein
+CDS	13959	14078	HVO_C0019	uncharacterized protein
+CDS	15191	16360	HVO_C0021	ISH3-type transposase ISH51
+CDS	16507	16875	HVO_C0022	uncharacterized protein
+CDS	17018	17512	HVO_C0023	uncharacterized protein
+CDS	17716	17973	HVO_C0025	uncharacterized protein
+CDS	18022	18489	HVO_C0026	uncharacterized protein
+CDS	18658	18852	HVO_C0027	hypothetical protein
+CDS	18908	19882	HVO_C0028	uncharacterized protein
+CDS	19887	20411	HVO_C0029	PIN domain protein
+CDS	20437	20628	HVO_C0030	uncharacterized protein
+CDS	20884	21090	HVO_C0031	uncharacterized protein
+CDS	21134	21307	HVO_C0032	uncharacterized protein
+CDS	21542	22072	HVO_C0033	uncharacterized protein
+CDS	22134	23411	HVO_C0034	uncharacterized protein
+CDS	23448	26402	HVO_C0035	uncharacterized protein
+CDS	26402	30316	HVO_C0036	uncharacterized protein
+CDS	30761	31930	HVO_C0037	ISH3-type transposase ISHvo21
+CDS	32328	32678	HVO_C0038	uncharacterized protein
+CDS	32946	34112	HVO_C0039	ISH3-type transposase ISH51
+CDS	34493	35713	HVO_C0040	site-specific DNA-methyltransferase (cytosine-specific)
+CDS	35917	38424	HVO_C0041	uncharacterized protein
+CDS	38529	42353	HVO_C0042	helicase domain protein
+CDS	42448	44433	HVO_C0043	uncharacterized protein
+CDS	44460	45461	HVO_C0044	PLD domain protein
+CDS	45606	46760	HVO_C0045	uncharacterized protein
+CDS	47163	47717	HVO_C0046	uncharacterized protein
+CDS	47768	48286	HVO_C0047	uncharacterized protein
+CDS	48317	48517	HVO_C0048	uncharacterized protein
+CDS	48570	48743	HVO_C0049	uncharacterized protein
+CDS	49346	50146	HVO_C0050	uncharacterized protein
+CDS	50262	50750	HVO_C0051	HTH domain protein
+CDS	51699	53051	HVO_C0053	ISH5-type transposase ISHvo11
+CDS	53301	54335	HVO_C0054	uncharacterized protein
+CDS	55340	55567	HVO_C0055	uncharacterized protein
+CDS	55899	56111	HVO_C0056	uncharacterized protein
+CDS	56369	57616	HVO_C0057	Orc1-type DNA replication protein
+CDS	60310	60609	HVO_C0060	CopG domain protein
+CDS	61032	61364	HVO_C0062	uncharacterized protein
+CDS	61727	62611	HVO_C0064	ISH4-type transposase ISHvo5
+CDS	63753	64931	HVO_C0067	FAD-dependent oxidoreductase
+CDS	65353	66177	HVO_C0068	ISH9-type transposase ISHvo4
+CDS	66399	67373	HVO_C0069	GFO family oxidoreductase
+CDS	67448	68746	HVO_C0070	ISH8-type transposase ISHvo13
+CDS	69009	70175	HVO_C0071	ISH3-type transposase ISH51
+CDS	70334	71227	HVO_C0072	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	71227	72192	HVO_C0073	ABC-type transport system permease protein (probable substrate dipeptide/oligopeptide)
+CDS	72312	74384	HVO_C0074	ABC-type transport system ATP-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	74734	76410	HVO_C0075	ABC-type transport system periplasmic substrate-binding protein (probable substrate dipeptide/oligopeptide)
+CDS	76797	77576	HVO_C0076	IclR family transcription regulator
+CDS	77782	78945	HVO_C0077	sarcosine oxidase
+CDS	79789	80892	HVO_C0080	ISH16-type transposase ISHvo8
+CDS	81271	81825	HVO_C0081	uncharacterized protein
+CDS	81876	82394	HVO_C0082	uncharacterized protein
+CDS	82425	82625	HVO_C0082A	uncharacterized protein
+CDS	82678	82839	HVO_C0083A	uncharacterized protein
+CDS	83151	83267	HVO_C0084	uncharacterized protein
+CDS	83320	83664	HVO_C0085	homolog to virus protein eHPD7_00180
+CDS	83661	83855	HVO_C0086	small CPxCG-related zinc finger protein
+CDS	83852	84292	HVO_C0087	uncharacterized protein
+CDS	84301	84525	HVO_C0088	uncharacterized protein
